@@ -1,0 +1,10 @@
+/Users/vishal/Documents/projects/patient-management/patient-management/auth-service/src/main/java/com/pm/AuthServiceApplication.java
+/Users/vishal/Documents/projects/patient-management/patient-management/auth-service/src/main/java/com/pm/config/SecurityConfig.java
+/Users/vishal/Documents/projects/patient-management/patient-management/auth-service/src/main/java/com/pm/controller/AuthController.java
+/Users/vishal/Documents/projects/patient-management/patient-management/auth-service/src/main/java/com/pm/dto/LoginRequestDTO.java
+/Users/vishal/Documents/projects/patient-management/patient-management/auth-service/src/main/java/com/pm/dto/LoginResponseDTO.java
+/Users/vishal/Documents/projects/patient-management/patient-management/auth-service/src/main/java/com/pm/model/User.java
+/Users/vishal/Documents/projects/patient-management/patient-management/auth-service/src/main/java/com/pm/repository/UserRepository.java
+/Users/vishal/Documents/projects/patient-management/patient-management/auth-service/src/main/java/com/pm/service/AuthService.java
+/Users/vishal/Documents/projects/patient-management/patient-management/auth-service/src/main/java/com/pm/service/UserService.java
+/Users/vishal/Documents/projects/patient-management/patient-management/auth-service/src/main/java/com/pm/util/JwtUtil.java
